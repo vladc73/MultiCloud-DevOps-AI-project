@@ -9,7 +9,7 @@ My journey in Information Technology has led me to develop a passion for cloud c
 |-----------------------------------------------|----------------------------|
 | Automating AWS provisioning with Terraform using Claude          | <a href="https://github.com/vladc73/MultiCloud-DevOps-AI-project/blob/main/Automating%20AWS%20Provisioning">Automating AWS provisioning</a>|
 | Deploying the app with Docker & Kubernetes on AWS         | <a href="Deploying the app">Deploying the app</a>|
-| Putting the Cloud app on autopilot with DevOps CI/CD pipelines on AWS         | <a href="https://github.com/vladc73/AWS-Cloud-Computing/blob/main/Getting%20Started%20with%20Compute%20Simulation%20Instructions.pdf">Compute Lab</a>|
+| Putting the Cloud app on autopilot with DevOps CI/CD pipelines on AWS         | <a href="Putting the Cloud app on autopilot">Putting the Cloud app on autopilot</a>|
 | Creating AI Agents with OpenAI & Amazon Bedrock     | <a href="">Databases</a>|
 | Going MultiCloud: DW/BI on Google Cloud & Sentiment Analysis with Microsoft Azure AI                  | <a href="">Serverless Lab </a>|
 
