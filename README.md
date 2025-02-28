@@ -7,7 +7,7 @@ My journey in Information Technology has led me to develop a passion for cloud c
 ## Lab Exercises
 | Labs                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Automating AWS provisioning with Terraform using Claude          | <a href="https://github.com/vladc73/AWS-Cloud-Computing/blob/main/Storage%20Lab">Storage Lab</a>|
+| Automating AWS provisioning with Terraform using Claude          | <a href="https://github.com/vladc73/MultiCloud-DevOps-AI-project/blob/main/Automating%20AWS%20Provisioning">Automating AWS provisioning</a>|
 | Deploying the app with Docker & Kubernetes on AWS         | <a href="">Cloud Operations Lab</a>|
 | Putting the Cloud app on autopilot with DevOps CI/CD pipelines on AWS         | <a href="https://github.com/vladc73/AWS-Cloud-Computing/blob/main/Getting%20Started%20with%20Compute%20Simulation%20Instructions.pdf">Compute Lab</a>|
 | Creating AI Agents with OpenAI & Amazon Bedrock     | <a href="">Databases</a>|
